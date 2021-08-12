@@ -8,3 +8,12 @@ JavaScript       |  (https://devdocs.io/javascript/)                            
 HTTP             |  (https://devdocs.io/http/)                                    | GET /hello.txt HTTP/1.1 User-Agent: curl/7.16.3 libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3 Host: www.example.com Accept-Language: en
 Git              |  (https://git-scm.com/doc)                                     | git config, git init, git clone, git add, git commit
 API              |  (https://www.tutorialsteacher.com/webapi/what-is-web-api)     | https://example.com/api/v2/db/_table/contact_info?limit=5
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+         
